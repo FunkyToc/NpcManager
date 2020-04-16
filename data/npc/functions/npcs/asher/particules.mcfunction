@@ -1,0 +1,1 @@
+particle minecraft:splash ~ ~0.6 ~ 0.02 0.02 0.02 0.01 1 normal @a[scores={npc_asher=..8}]

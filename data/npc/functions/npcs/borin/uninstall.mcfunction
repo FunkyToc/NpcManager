@@ -1,0 +1,1 @@
+scoreboard objectives remove npc_borin
