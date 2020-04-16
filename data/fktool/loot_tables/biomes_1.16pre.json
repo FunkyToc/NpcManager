@@ -128,21 +128,6 @@
 							"conditions": [{
 									"condition": "minecraft:location_check",
 									"predicate": {
-										"biome": "minecraft:nether_wastes"
-									}
-								}
-							],
-							"type": "minecraft:item",
-							"name": "minecraft:golden_hoe",
-							"functions": [{
-									"function": "minecraft:set_nbt",
-									"tag": "{BiomeID:8}"
-								}
-							]
-						}, {
-							"conditions": [{
-									"condition": "minecraft:location_check",
-									"predicate": {
 										"biome": "minecraft:the_end"
 									}
 								}
