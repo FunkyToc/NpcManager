@@ -1,8 +1,8 @@
 ### NPC Datapack
 
 ## Develop by FunkyToc
-## Minecraft 1.14.4
-## 08/12/2019
+## Minecraft 1.13 - 1.16+
+## 28/10/2020
 
 
 
@@ -22,6 +22,7 @@
 	C. replace the "tag=npc_flyman" tag to your own npc name
 	D. add/remove states and choices to your needs
 	E. custom the talk sound in sound.mcfunction (or not)
+	F. Try it with /function npc:summon
 
 
 3 . IMPORTANT

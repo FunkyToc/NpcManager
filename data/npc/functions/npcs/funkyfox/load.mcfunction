@@ -1,0 +1,1 @@
+scoreboard objectives add npc_funkyfox dummy

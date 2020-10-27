@@ -1,1 +1,0 @@
-scoreboard objectives remove npc_tristan

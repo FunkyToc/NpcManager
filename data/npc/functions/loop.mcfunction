@@ -1,3 +1,6 @@
-execute if entity @e[type=minecraft:villager,distance=..6,tag=npc_borin] run function npc:npcs/borin/loop
-execute if entity @e[type=minecraft:villager,distance=..8,tag=npc_asher] run function npc:npcs/asher/loop
-execute if entity @e[type=minecraft:villager,distance=..6,tag=npc_tristan] run function npc:npcs/tristan/loop
+# npcs list
+execute if entity @e[type=minecraft:fox,distance=..8,tag=npc_funkyfox] run function npc:npcs/funkyfox/loop
+
+# players talk sound
+execute as @a[tag=player_talking] at @s run function npc:npc/player_talking
+tag @a[tag=player_talking] remove player_talking

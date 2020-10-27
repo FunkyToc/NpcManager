@@ -1,0 +1,1 @@
+playsound minecraft:entity.villager.ambient neutral @a[distance=..16] ~ ~ ~ 2 1
