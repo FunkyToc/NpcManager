@@ -1,6 +1,7 @@
 {
-	"pack": {
-	   "pack_format":6,
-	   "description":"NPC manager - by FunkyToc"
-	}
- }
+  "pack": {
+    "pack_format": 24,
+    "supported_formats": [18,99],
+    "description": "§6NPC Manager §4PREMIUM\n§7patreon.com/funkytoc"
+  }
+}

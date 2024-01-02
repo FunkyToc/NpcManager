@@ -1,3 +1,5 @@
 {
-	"values":["npc:tick"]
+  "values":[
+    "fknpc:tick"
+  ]
 }

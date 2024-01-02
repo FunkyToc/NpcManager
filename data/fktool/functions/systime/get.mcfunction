@@ -1,0 +1,2 @@
+execute if score McVersion fktool matches 11904.. run function fktool:systime/do
+execute if score McVersion fktool matches ..11903 run tellraw @a[gamemode=creative] {"text":"fktool.systime require 1.19.4+","color":"red"}

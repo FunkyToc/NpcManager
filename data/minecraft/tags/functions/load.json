@@ -1,3 +1,6 @@
 {
-	"values":["fktool:load","npc:load"]
+  "values":[
+    "fktool:load",
+    "fknpc:load"
+  ]
 }
